@@ -3,7 +3,11 @@
 
 # 🎁 Proyecto Amigo Secreto
 ![juego del amigo secreto](https://github.com/user-attachments/assets/1f7dd4de-3482-4e1c-9698-82014f8d1a2e)
-
+![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-green)
+![Propósito](https://img.shields.io/badge/Propósito-Educativo-blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 </div>
