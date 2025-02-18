@@ -9,6 +9,8 @@ function agregarAmigo() {
     listaAmigos.push(nombre);
     actualizarListaAmigos();
     nombreInput.value = ''; // Limpiar el campo de entrada después de agregar el nombre
+  } else {
+    alert('Por favor, escribe un nombre antes de añadir.');
   }
 }
 
