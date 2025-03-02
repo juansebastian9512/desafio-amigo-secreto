@@ -1,11 +1,12 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-primary: #c8df1f;
+    --color-secondary: #0b0b0b;
+    --color-button-hover: #a3bc28;
+    --color-tertiary: #c5e31f;
+    --color-button: #c0ca30;
+    --color-button-hover: #a3bc28;
     --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-white: #070707;
 }
 
 /* Estilos generales */
@@ -136,7 +137,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #c9df05;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
