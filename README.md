@@ -2,7 +2,7 @@
 
 
 # 🎁 Proyecto Amigo Secreto
-![juego del amigo secreto](https://github.com/user-attachments/assets/1f7dd4de-3482-4e1c-9698-82014f8d1a2e)
+![juego del amigo secreto](assets/12.png)
 ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-green)
 ![Propósito](https://img.shields.io/badge/Propósito-Educativo-blue)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
